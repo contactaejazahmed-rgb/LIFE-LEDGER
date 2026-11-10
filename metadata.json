@@ -1,0 +1,6 @@
+{
+  "name": "EduBooks",
+  "description": "B2B notebook supply and inventory management platform exclusively for schools with catalog, custom pricing, and order tracking",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
